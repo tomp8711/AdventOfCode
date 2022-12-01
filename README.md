@@ -1,2 +1,3 @@
 # AdventOfCode
-Solutions to Advent of. Code
+
+Day 1
