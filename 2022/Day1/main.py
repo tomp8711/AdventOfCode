@@ -40,11 +40,6 @@ if __name__ == "__main__":
      print("---Part One --- ")
      print(maxCalorie)
 
-     inputPath = "./Day1/input.txt"
-     listInput = readFile(inputPath)
      maxCalorie = getThreeMax(listInput)
      print("---Part Two---")
      print(maxCalorie)
-     
-     
-
