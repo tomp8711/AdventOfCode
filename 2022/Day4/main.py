@@ -1,4 +1,4 @@
-#DAY 3 Rucksack Reorganization
+#DAY 4 Camp Cleanup
 import re
 
 
